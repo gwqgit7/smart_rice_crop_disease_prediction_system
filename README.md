@@ -2,25 +2,25 @@
 An AI web-based application. Users can upload images, system then analyzes the images using model to classify diseases and generate results.
 
 ## Features
-• Upload Images
-• AI Model Classification
-• Record Prediction History
-• Manage (edit, delete, search, filter) Prediction History
-• Register, Login, Logout Account
+- Upload Images
+- AI Model Classification
+- Record Prediction History
+- Manage (edit, delete, search, filter) Prediction History
+- Register, Login, Logout Account
 
 ## Techniques
 ### Languages
-• Python (backend, API)
-• Jupyter Notebook <Python> (model building)
-• HTML, CSS, JavaScript (frontend)
+- Python (backend, API)
+- Jupyter Notebook <Python> (model building)
+- HTML, CSS, JavaScript (frontend)
 ### Frameworks
-• Flask (API)
-• Bootstrap (frontend)
+- Flask (API)
+- Bootstrap (frontend)
 ### AI Model
-• DenseNet121 (pre-trained model)
-• Transfer Deep Learning
+- DenseNet121 (pre-trained model)
+- Transfer Deep Learning
 ### Database
-• SQLite
+- SQLite
 
 ## Demo
 ![3-Home 1 1](https://github.com/user-attachments/assets/2ee0ab11-7974-4d2b-96a3-298fe3d55cc0)
