@@ -33,4 +33,4 @@ An AI web-based application. Users can upload images, system then analyzes the i
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ### Commercial Use
-While the MIT license allows for commercial use, I would appreciate it if you reached out to [wenqingg01@gmail.com] to discuss your use case or to let me know how you're using the project!
+While the MIT license allows for commercial use, I would appreciate it if you reached out to wenqingg01@gmail.com to discuss your use case or to let me know how you're using the project!
