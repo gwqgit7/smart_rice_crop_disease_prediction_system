@@ -29,3 +29,8 @@ An AI web-based application. Users can upload images, system then analyzes the i
 ![9-History 1](https://github.com/user-attachments/assets/366c00b3-a17d-4631-98d2-7993cbf582da)
 ![10 2-History 2 2](https://github.com/user-attachments/assets/56db849a-0385-4aed-936d-bb96dd114b55)
 ![11-Batch 1](https://github.com/user-attachments/assets/6d6b70cb-3cd4-4c6c-a1dd-ebb22e119054)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+### Commercial Use
+While the MIT license allows for commercial use, I would appreciate it if you reached out to wenqingg01@gmail.com to discuss your use case or to let me know how you're using the project!
