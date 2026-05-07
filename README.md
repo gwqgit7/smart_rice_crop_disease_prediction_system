@@ -5,7 +5,7 @@ An AI web-based application. Users can upload images, system then analyzes the i
 - Upload Images
 - AI Model Classification
 - Record Prediction History
-- Manage (edit, delete, search, filter) Prediction History
+- Manage Prediction History (edit, delete, search, filter)
 - Register, Login, Logout Account
 
 ## Techniques
@@ -17,8 +17,10 @@ An AI web-based application. Users can upload images, system then analyzes the i
 - Flask (API)
 - Bootstrap (frontend)
 ### AI Model
+- Tensorflow
+- Deep Learning
+- Transfer Learning
 - DenseNet121 (pre-trained model)
-- Transfer Deep Learning
 ### Database
 - SQLite
 
